@@ -1,5 +1,23 @@
 group: teyvat_univ
 
+student = {
+student_id, student_name, course_id
+'GI001', 'Syaufuddin', 'LY1011'
+'GI002', 'Faisal', 'MD2210'
+'GI003', 'Chandra', 'LY1011'
+'GI004', 'Alibudi', 'MD2210'
+'GI005', 'Nurul', 'KH1204'
+'GI006', 'Tatang', 'FT0708'
+'GI007', 'Reza', 'NT1016'
+'GI008', 'Ningsih', 'NT1116'
+'GI009', 'Kaesang', 'KH1204'
+'GI010', 'Abah', 'LY1011'
+'GI011', 'Badriah', 'FT0708'
+'GI012', 'Juha', 'IZ21006'
+'GI013', 'Fadil', 'NT1016'
+'GI014', 'Rosa', 'FT0708'
+'GI015', 'Yula', 'SM1207'
+}
 
 department = {
 department_id, department_name, faculty_name
