@@ -63,7 +63,7 @@ department_id, department_name, faculty_name
 }
 
 course = {
-course_id, course_name, faculty
+course_id, course_name, faculty_name
 'NT1016', 'Matematika 1', 'SCIENTICS'
 'NT1016', 'Matematika 1', 'INDSYS'
 'NT1016', 'Matematika 1', 'CIVPLAN'
