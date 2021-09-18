@@ -102,3 +102,13 @@ department_id, department_name, faculty_name
 'MHY39', 'Statistika Bisnis', 'VOCATIONS'
 }
 
+faculty = {
+faculty_id, faculty_name
+'ARC001', 'SCIENTICS'
+'ARC002', 'INDSYS'
+'ARC003', 'CIVPLAN'
+'ARC004', 'MARTECH'
+'ARC005', 'ELECTICS'
+'ARC006', 'CREABIZ'
+'ARC007', 'VOCATIONS'
+}
